@@ -105,7 +105,7 @@
             </ImageView>
          </graphic>
       </JFXButton>
-      <JFXButton fx:id="Relatorios" alignment="BOTTOM_CENTER" buttonType="RAISED" contentDisplay="TOP" layoutX="782.0" layoutY="403.0" onAction="#openMovimentacao" prefHeight="115.0" prefWidth="130.0" style="-fx-background-color: #1e3040; -fx-border-color: black;" text="Relatórios" textFill="WHITE">
+      <JFXButton fx:id="Relatorios" alignment="BOTTOM_CENTER" buttonType="RAISED" contentDisplay="TOP" layoutX="782.0" layoutY="403.0" onAction="#openRelatorios" prefHeight="115.0" prefWidth="130.0" style="-fx-background-color: #1e3040; -fx-border-color: black;" text="Relatórios" textFill="WHITE">
          <font>
             <Font name="System Bold" size="13.0" />
          </font>

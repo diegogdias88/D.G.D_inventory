@@ -83,7 +83,10 @@ public class MainDGDPrincipalController implements Initializable {
         openStage("/dgdsoft/view/Movimentacao.fxml");
     }
     
-    
+    @FXML
+    private void openRelatorios() {
+        openStage("/dgdsoft/view/Relatorio.fxml");
+    }
     
     private void openStage(String fxml) {
         try {
